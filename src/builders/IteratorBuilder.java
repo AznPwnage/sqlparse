@@ -49,8 +49,6 @@ public class IteratorBuilder {
 //                System.out.println(createTable.getTable().getName() + "*********");
                 IndexMaker.createIndex(createTable);
 
-
-
             }
             return null;
 
